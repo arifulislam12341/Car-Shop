@@ -33,13 +33,12 @@
 ![ss7](https://user-images.githubusercontent.com/58241277/189207603-ddc6f636-6107-4d61-a03d-43b4d9715b7e.PNG)
 ![ss8](https://user-images.githubusercontent.com/58241277/189207609-aa8abc75-ba0a-424f-ad62-2e9cf4cbb37c.PNG)
 ![ss9](https://user-images.githubusercontent.com/58241277/189207617-7abf4125-bae2-4643-9de2-cc707af2163a.PNG)
-    <h2>Responsive Pages</h2>
+ <h2>Responsive Pages</h2>
 
+![car2](https://user-images.githubusercontent.com/58241277/189213396-4fe7a8d6-0a07-4d97-8080-c44c67a9b468.PNG)
+![car3](https://user-images.githubusercontent.com/58241277/189213406-e116dbf5-479c-41b0-b2d1-cbf6fc2bdc85.PNG)
+![car1](https://user-images.githubusercontent.com/58241277/189213407-5f01d8e7-c318-44a0-872a-bb2ca3b2dcf4.PNG)
 <h2>Project setup</h2>
- ![car2](https://user-images.githubusercontent.com/58241277/189213201-3d4b9b33-2f2f-4618-9924-2f456e149363.PNG)
-![car3](https://user-images.githubusercontent.com/58241277/189213203-0e220635-6d4f-4a3f-bec9-08f52278bfd7.PNG)
-![car1](https://user-images.githubusercontent.com/58241277/189213204-12d4c8af-9cfc-4b06-9aee-330da6b96f99.PNG)
-
 <ol>
 <li>Download composer and install it which will install composer packager with it</p></li>
 <li>Download XAMPP v3.3.0</li>
