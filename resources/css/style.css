@@ -1,0 +1,17 @@
+*{
+   
+    font-family: 'Arial';
+}
+body{
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    background-color: red;
+    height: 500px;
+ 
+}
+nav,footer, .col-card{
+    background-color: #D9D9D9;
+  
+}
